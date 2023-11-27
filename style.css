@@ -88,6 +88,10 @@ nav .fa{
     color: #fff;
 }
 
+svg{
+    width: 0px;
+}
+
 @media(max-width: 700px){
     .text-box{
         width: 90%;
@@ -137,6 +141,9 @@ nav .fa{
     .nav-links ul{
         padding: 30px;
 
+    }
+    svg{
+        width: 24px;
     }
     
 }
